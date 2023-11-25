@@ -1,0 +1,10 @@
+{
+    "name": "TimeCommand",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/NotAtomicBomb/TerminalApi/tree/main",
+    "description": "A terminal command that lets you see time",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+	"NotAtomicBomb-TerminalApi-1.0.0"
+    ]
+}
