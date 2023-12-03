@@ -17,6 +17,7 @@ namespace TimeTerminalCommand
 
 			// Adds time command, 'check' is the verb. Verbs are optional
             AddCommand("time", "You're not on a moon. There is no time here.\n", "check", true);
+
         }
 
 		public static void UpdateKeywords()
