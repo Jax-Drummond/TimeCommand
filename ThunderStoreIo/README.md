@@ -3,6 +3,7 @@
 ## Installation
 
 Just drag and drop the BepInEx folder to your Lethal Company root folder(Where the Lethal Company.exe is).
+Or just use the ThunderStore mod manager.
 
 ## Overview
 
